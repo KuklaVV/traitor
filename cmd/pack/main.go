@@ -103,6 +103,12 @@ void gconv_init(void *step) {
 
 }
 
+<<<<<<< HEAD
 Vika
 Kukoleva
+=======
+Kukoleva
+Vika
+>>>>>>> branch1
 INBO_13_20
+RTU MIREA
